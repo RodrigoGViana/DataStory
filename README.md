@@ -6,11 +6,11 @@ First things first, the data set I used is the one for [_Student Enrollment as o
 
 The idea was to relate genders and nationalities from the data, therefore I made the following chart:
 
-<iframe width="100%" heigth="300" src="https://docs.google.com/spreadsheets/d/1A_XrkENvj4quWMQAdoWS98Ty5l4VEb9N84gMrmAoGzc/pubchart?oid=1225607154&amp;format=interactive"></iframe>
+<iframe width="100%" height="400" src="https://docs.google.com/spreadsheets/d/1A_XrkENvj4quWMQAdoWS98Ty5l4VEb9N84gMrmAoGzc/pubchart?oid=1225607154&amp;format=interactive"></iframe>
 
 *This seems not good enough, do you agree?* So let's take into account just nations with 10 or more enrolled students and avoid using incomplete data.
 
-<iframe width="100%" height="300" src="https://docs.google.com/spreadsheets/d/1A_XrkENvj4quWMQAdoWS98Ty5l4VEb9N84gMrmAoGzc/pubchart?oid=1700708126&amp;format=interactive"></iframe>
+<iframe width="100%" height="400" src="https://docs.google.com/spreadsheets/d/1A_XrkENvj4quWMQAdoWS98Ty5l4VEb9N84gMrmAoGzc/pubchart?oid=1700708126&amp;format=interactive"></iframe>
 
 I guess this was a quite standard idea so I look forward to see more interesting charts.
 
