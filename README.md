@@ -8,6 +8,7 @@ The idea was to relate genders and nationalities from the data, therefore I made
 
 <iframe width="100%" height="400" src="https://docs.google.com/spreadsheets/d/1A_XrkENvj4quWMQAdoWS98Ty5l4VEb9N84gMrmAoGzc/pubchart?oid=1225607154&amp;format=interactive"></iframe>
 
+
 *This seems not good enough, do you agree?* So let's take into account just nations with 10 or more enrolled students and avoid using incomplete data.
 
 <iframe width="100%" height="400" src="https://docs.google.com/spreadsheets/d/1A_XrkENvj4quWMQAdoWS98Ty5l4VEb9N84gMrmAoGzc/pubchart?oid=1700708126&amp;format=interactive"></iframe>
